@@ -1,6 +1,6 @@
 # WebXIO
 
-WebXIO is a group by 2 students, who love to program and develop applications for many different use-cases.
+WebXIO is a group by 2 enthusiastic software-engineers, who love to program and develop applications for many different use-cases.
 Our Webpage: [WebXIO](https://webxio.at)
 
 ## The technologies we use:
